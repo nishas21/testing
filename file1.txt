@@ -1,4 +1,2 @@
 this is one with text
-new changes here
-this is for trial
-making change for rebase
+to see the untrack files
