@@ -1,2 +1,4 @@
 this is one with text
 to see the untrack files
+changes done:wq
+
